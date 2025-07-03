@@ -27,7 +27,7 @@
 </p>
 This LMS prototype includes a chatbot that can respond to common student queries within a few milliseconds without requiring network connectivity.
 
-### Voice Control
+### Voice Control 
 
 <img src="https://github.com/allanchua101/hau-ai-powered-lms/blob/main/assets/Voice%20Banner.png"
      alt="A diagram explaining our core feature which is a Voice-control bot"
